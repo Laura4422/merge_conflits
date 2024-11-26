@@ -1,3 +1,3 @@
-# merge_conflits
+REMOTE
 
 j'ai écris quelques mots
